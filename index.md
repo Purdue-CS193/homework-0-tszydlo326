@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+#<Tyler Szydlo's First CS193 Homework
+
+My Favorite Things About CS 193
+- chill class
+- very helpful to learn the stuff they don't teach us in class but stuff we use
+- gpa boost :)
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
